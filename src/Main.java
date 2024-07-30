@@ -181,6 +181,9 @@ public class Main {
                 sc.nextLine();
                 System.out.println("The salary is "+payrollSystem.displaySalary(id));
             }
+            if(choice ==5){
+                break;
+            }
         }
 
     }
